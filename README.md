@@ -1,6 +1,6 @@
 # Just_eat_Takeaway-END-END_Pipeline_building
 
-This project focuses on Dimensional Modelling, Building ETL Pipeline in MAGE using EC2 Instance from AWS services, Storing the data model in S3 and loading the data into S3 using PutObject into S3. Future scope of this project to be Querying using Athena and leverage AWS Quicksight/Power BI for insights.
+This project focuses on Dimensional Modelling, building ETL Pipeline in MAGE using EC2 Instance from AWS services, storing the data model in S3 and loading the data into S3 bucket using PutObject into S3. Future scope of this project to be Querying using Athena and leverage AWS Quicksight/Power BI for insights.
 
 # Overview
 
@@ -43,5 +43,5 @@ Any further processing or aggregation can be performed
 **Prerequisites**
 
 - An AWS account with S3 bucket access and an EC2 instance.
-- Mage.ai installed on the EC2 instance. (See https://github.com/mage-ai/mage-ai for installation instructions)
+- Mage.ai installed on the EC2 Instance. (See https://github.com/mage-ai/mage-ai for installation instructions)
 - Kaggle Account to download the dataset.
