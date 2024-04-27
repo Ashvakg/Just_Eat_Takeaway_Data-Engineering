@@ -19,13 +19,18 @@ Building Data pipelines is a crucial component of any data infrastructure as the
 **Storing the model:**
 
 - Saving the data in AWS S3 for easy access for ETL Processing.
-
+![s3storage](https://github.com/Ashvakg/Justeats_DataEngineering/assets/83398283/1ef2b6dc-5b12-4e82-8f6c-cd2dd315deaf)
 
 **ETL Processing:**
 
 - Created an EC2 instance in AWS to run Mage-ai which will perfrom the ETL Task.
-  
+![pipeline status in EC2](https://github.com/Ashvakg/Justeats_DataEngineering/assets/83398283/da293885-85c2-417e-a39e-7c79b6064f6a)
+
+    
 **Extraction:**: Data is extracted from S3 bucket into Mage-ai
+
+![Mage-1](https://github.com/Ashvakg/Justeats_DataEngineering/assets/83398283/518e5f2d-f631-41e6-8863-6e66f6f39fe8)
+
 
 **Transformation** logic is done here, converting the flat file into fact and dimension.
 
