@@ -33,6 +33,7 @@ Building Data pipelines is a crucial component of any data infrastructure as the
 
 ![Mage-1](https://github.com/Ashvakg/Justeats_DataEngineering/assets/83398283/518e5f2d-f631-41e6-8863-6e66f6f39fe8)
 
+![Mage-2](https://github.com/Ashvakg/Justeats_DataEngineering/assets/83398283/f1b3bbc0-dcd0-44b9-8d0e-c88a7da2d098)
 
 **Transformation** logic is done here, converting the flat file into fact and dimension.
 
