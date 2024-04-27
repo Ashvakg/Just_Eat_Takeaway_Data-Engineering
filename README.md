@@ -15,6 +15,8 @@ Building Data pipelines is a crucial component of any data infrastructure as the
 - Identifying facts** (measures of interest) and **dimensions** (descriptive attributes).
 - Creating fact and dimension tables with appropriate data types and relationships.
 - Cleaning and transforming data to ensure consistency and accuracy.
+  
+  ![Dimensional Modelling](https://github.com/Ashvakg/Justeats_DataEngineering/assets/83398283/92528843-d3b5-4987-a6c4-0c9da508a98f)
 
 **Storing the model:**
 
@@ -37,6 +39,10 @@ Building Data pipelines is a crucial component of any data infrastructure as the
 Any further processing or aggregation can be performed 
 
 **Data Loading:** The final processed data is loaded into another AWS service for further analysis (e.g., Amazon Redshift, Athena, Kinesis).
+
+**ETL Pipeline in Mage-ai**
+![ETL Pipeline](https://github.com/Ashvakg/Justeats_DataEngineering/assets/83398283/951dd1ce-d01c-4001-9af6-5adc401a6533)
+
 
 **Benefits:**
 
