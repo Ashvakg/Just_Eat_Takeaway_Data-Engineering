@@ -1,4 +1,4 @@
-# Just_eat_Takeaway-END-END_Pipeline_building
+# Just_eat_Takeaway-END-to-END_Pipeline_building
 
 This project focuses on Dimensional Modelling, building ETL Pipeline in MAGE using EC2 Instance from AWS services, storing the data model in S3 and loading the data into S3 bucket using PutObject into S3. Future scope of this project to be Querying using Athena and leverage AWS Quicksight/Power BI for insights.
 
