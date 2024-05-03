@@ -1,10 +1,10 @@
-# Just_eat_Takeaway-END-to-END_Pipeline_building
+# Just_eat_Takeaway-end-to-end_Pipeline_building
 
-This project focuses on Dimensional Modelling, building ETL Pipeline in MAGE using EC2 Instance from AWS services, storing the data model in S3 and loading the data into S3 bucket using PutObject into S3. Future scope of this project to be Querying using Athena and leverage AWS Quicksight/Power BI for insights.
+This project focuses on Dimensional Modeling, building ETL Pipeline in Mage.ai using EC2 Instance from AWS services, storing the data model in S3 and loading the data into S3 bucket using PutObject into S3. Future scope of this project to be Querying using Athena and leverage AWS Quicksight/Power BI for insights.
 
 # Overview
 
-Building Data pipelines is a crucial component of any data infrastructure as they facilitate the efficient, reliable, and scalable flow of data from source systems to downstream applications. They ensure that data is ingested, processed, transformed, and delivered in a timely manner, enabling organizations to make data-driven decisions, gain valuable insights, and drive business growth. By automating the movement and processing of data, data pipelines reduce manual effort, minimize errors, improve data quality, and enhance overall productivity.
+Building data pipelines is a crucial component of any data infrastructure as they facilitate the efficient, reliable, and scalable flow of data from source systems to downstream applications. They ensure that data is ingested, processed, transformed, and delivered in a timely manner, enabling organizations to make data-driven decisions, gain valuable insights, and drive business growth. By automating the movement and processing of data, data pipelines reduce manual effort, minimize errors, improve data quality, and enhance overall productivity.
 
 # Functionality
 
