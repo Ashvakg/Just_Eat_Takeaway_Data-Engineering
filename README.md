@@ -33,7 +33,7 @@ To achieve improved data accessibility, enhanced data processing efficiency, and
    - **Insightful Analytics:** Implemented dimensional modeling and analytics on EC2 instances, enabling Just Eat Takeaway to derive actionable insights from large volumes of data.
    - **Scalable Infrastructure:** Built a scalable infrastructure on AWS, ensuring the flexibility to handle increasing data volumes and analytic workloads.
 
-### **Future Plans:**
+### **Future Scope:**
    - **Advanced Analytics:** Explore advanced analytics techniques such as machine learning and predictive modeling to derive deeper insights from the data.
    - **Real-time Processing:** Implement real-time data processing capabilities to enable immediate insights and decision-making.
    - **Cost Optimization:** Continuously optimize the AWS infrastructure to minimize costs while maximizing performance and scalability.
