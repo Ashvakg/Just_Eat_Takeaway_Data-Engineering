@@ -1,4 +1,4 @@
-### **Description:** 
+### **Objective:** 
 To achieve improved data accessibility, enhanced data processing efficiency, and insightful analytics capabilities by establishing a scalable and efficient data pipeline for Just Eat Takeaway delivery dataset, leveraging AWS services.
 
 ### **Approach:**
